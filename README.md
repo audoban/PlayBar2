@@ -1,2 +1,2 @@
 # PlayBar2
-successfully takeover by hacker
+Hijacked by hacker
