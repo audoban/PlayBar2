@@ -1,2 +1,2 @@
 # PlayBar2
-Hijacked by hacker
+Successfully hijacked by hacker
